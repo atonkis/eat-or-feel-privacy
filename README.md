@@ -1,2 +1,2 @@
 # eat-or-feel-privacy
-single page of privacy policy
+pages of privacy policy and support
